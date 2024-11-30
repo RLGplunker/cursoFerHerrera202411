@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/typescript-intro/FileContentIndex/3943d3e8-04c2-4b2e-95cf-033831c823e3.vsidx
+/.vs/typescript-intro/FileContentIndex
+/.vs/typescript-intro/v17
+/.vs
+/.vscode
+/node_modules
